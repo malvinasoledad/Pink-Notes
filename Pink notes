@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title> Pink Notes </title>
+
+</head>
+
+<body>
+
+    <!-- background color and text align -->
+
+    <div style="background-color:#ffedf3;" style="text-align:center;"</div>
+
+        <!-- header -->
+
+        <h1> <div style="color:#c74066"</div>
+
+             <div style="text-align: center" </div>
+
+            Pink Notes
+
+        </h1>
+
+            <!-- text, content -->
+
+            <p>
+
+                <div style="text-align:center;"</div>
+
+                <div style="color:#ff94b2;"</div>
+
+                A space to write and organise, but pink <3
+
+            </p>
+
+           
+
+            </body>
+
+        </html>
